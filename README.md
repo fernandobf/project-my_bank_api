@@ -1,5 +1,5 @@
 # My Bank API
-Este é um projeto que simula algumas movimentações bancárias para treinar e aprender algumas possibilidades realacionadas a stack utilizada.
+Este é um projeto que faz um CRUD via API de clientes e seu respectivo saldo bancário.
 
 ## Informações técnicas
 
