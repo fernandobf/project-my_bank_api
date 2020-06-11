@@ -1,5 +1,5 @@
 # My Bank API
-Este é um projeto que faz um CRUD via API de clientes e seu respectivo saldo bancário.
+Este é um projeto que faz um CRUD via API de clientes e seus respectivos saldos bancários.
 
 ## Informações técnicas
 
