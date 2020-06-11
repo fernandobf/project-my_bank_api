@@ -4,7 +4,7 @@ Este é um projeto que simula algumas movimentações bancárias para treinar e 
 ## Informações técnicas
 
 #### Stack utilizada
- - `JS Vanilha / ES6`, para os scripts;
+ - `JavaScript ES6`, para os scripts;
  - `Node`, para back-end;
  - `FileSystem`, para persistência de dados;
  - `Cors`, para políticas de acesso à API;
