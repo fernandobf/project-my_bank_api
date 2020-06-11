@@ -1,4 +1,4 @@
-# My Bank API
+# My Balance API
 Este é um simples projeto que faz um CRUD via API de clientes e seus respectivos saldos bancários, registrando os dados localmente.
 
 ## Informações técnicas
