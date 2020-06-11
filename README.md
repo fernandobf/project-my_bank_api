@@ -5,7 +5,7 @@ Este é um po=rojeto que simula algumas movimentações bancárias para treinar 
 
 #### Stack utilizada
  - `JS Vanilha / ES6`, para os scripts;
- - `Node`, para back-end,
+ - `Node`, para back-end;
   -- `FileSystem`, para persistência de dados;
   -- `Cors`, para políticas de acesso à API
   -- `Express`, para a construção das API's
